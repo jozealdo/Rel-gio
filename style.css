@@ -2,8 +2,10 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(120deg, #0c0ccf, #19191f, #fafafc);
+    background: linear-gradient(120deg, #05056e, #0a0a0a, #c3c3ca);
     height: 100vh;
+    color: #fafafc;
+    font-size: 50px;
 }
 
 .relogio{
