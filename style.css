@@ -36,9 +36,9 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    color: #fff;
-    background: rgba(5, 5, 5, .9);
-    box-shadow: 5px 5px 15px rgba(0, 0, 0, .7);
+    color: rgba(123, 82, 124, 0.705);
+    background: rgba(238, 3, 247, 0.705);
+    box-shadow: 5px 5px 15px rgba(24, 233, 240, 0.7);
     border-radius: 7px;
     letter-spacing: 3px;
 
