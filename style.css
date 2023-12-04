@@ -53,9 +53,10 @@ body{
 .relogio span.tempo {
     font-size: 10px;
 }
-footr{
-    padding-top: 450px;
-    
+h1{
+    position: absolute;
+    top: 120px;
+    left: 500px;
 }
 
 /*** Feito por Kalvin ***/
